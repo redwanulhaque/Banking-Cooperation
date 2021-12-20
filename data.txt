@@ -1,0 +1,7 @@
+Steve, Rogers, 2351, 34312
+Tony, Stark, 4321, 52212
+Thor, Odinson, 9583, 97641 
+Mary, Widow, 7463, 31112
+George, Washington, 1231, 56432
+Bruce, Banner, 5464, 76655
+Steve, Rogers, 2351, 34312
